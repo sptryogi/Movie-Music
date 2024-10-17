@@ -20,7 +20,7 @@ Lihat demo langsung dan coba sendiri: [demo](https://seiyuops.web.app/)
   ## Jalankan perintah berikut:
  Instruksi ini akan memberi Anda salinan proyek dan berjalan di mesin lokal Anda untuk tujuan pengembangan dan pengujian.
 ### Langkah 1: clone the repository
-     git clone https://github.com/siabang35/Movie-Music.git
+     git clone https://github.com/sptryogi/Movie-Music.git
 ### Langkah 2: navigate to the clone 
      cd path_kamu/React-Movie-App 
 #### Langkah 3: Install Node.js, dengan cara:
